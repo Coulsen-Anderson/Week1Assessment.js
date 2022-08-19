@@ -42,7 +42,7 @@ const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 // CODE HERE
 let Answers = []
 
-for(let i = 0; i <= bigOrSmallArray.length; i++){
+for(let i = 0; i <= bigOrSmallArray[i]; i++){
   if(bigOrSmallArray[i] > 100){
     Answers.push('big')
 } else(bigOrSmallArray[i] <= 100); {
